@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hemanth-9320&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-9320&layout=compact&theme=tokyonight)](https://github.com/hemanth-9320
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-9320&layout=compact&theme=tokyonight)](https://github.com/hemanth-9320)
 
 ---
 
