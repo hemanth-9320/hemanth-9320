@@ -33,11 +33,4 @@
 
 ---
 
-## 💬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemanth4910/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hemanth_9320/)
-
----
-
 <p align="center">⚡️ Keep grinding. Every line of code brings you closer to your goal.</p>
