@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Reddy</h1>
-<p align="center">A passionate Computer Science student and problem solver.</p>
+<p align="center">A passionate Computer Science student and problem solver!</p>
 
 ---
 
