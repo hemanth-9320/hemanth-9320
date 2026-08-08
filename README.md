@@ -10,6 +10,10 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
   <a href="mailto:hemanthreddy4910@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemanth-9320&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🧠 My LeetCode Stats
@@ -18,15 +22,25 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Experience
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hemanth-9320&theme=highcontrast)](https://git.io/streak-stats)
+### JPMorgan Chase & Co. — FAST Data Science Intern
+**Jan 2026 – Jul 2026**
+
+- Worked within the Connected Commerce organization, supporting analytics and data-driven business initiatives.
+- Built reusable SQL pipelines and reporting frameworks using Snowflake and Databricks.
+- Developed merchant analytics workflows in privacy-safe clean room environments.
+- Improved call classification precision through rule-based NLP and taxonomy-driven tagging approaches.
+- Collaborated with cross-functional stakeholders to generate actionable business insights.
+
+**Tech:** Snowflake, SQL, Python, Databricks, Tableau, Excel
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📈 AWS DBT Snowflake Analytics Pipeline
+
 - Built an end-to-end analytics workflow using **dbt** and **Snowflake**
 - Implemented **Bronze → Silver → Gold** architecture
 - Added snapshots, source tests, and reusable macros
@@ -37,11 +51,18 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
 ---
 
 ### 🤖 BotDex AI Companion Dashboard
+
 - Developed a multi-bot AI conversation platform
 - Integrated Google's Gemini API
 - Built a responsive dashboard for personalized interactions
 
 **Tech:** Node.js, Express.js, Gemini API
+
+---
+
+## 📊 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hemanth-9320&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
@@ -77,9 +98,9 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Certifications
 
-[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemanth-9320&theme=github-dark)](https://github.com/hemanth-9320)
+- AWS Certified Cloud Practitioner (CCP)
 
 ---
 
@@ -96,7 +117,7 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
 ## 🎯 Career Interests
 
 - Data Engineering
-- Analytics Engineering
+- Data Analytics 
 - Business Intelligence
 - Applied Machine Learning
 - Cloud Data Platforms
