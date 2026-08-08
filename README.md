@@ -36,15 +36,6 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
 
 ---
 
-### 🎯 Customer Churn Analytics Platform
-- Developed a customer churn prediction pipeline
-- Built ETL workflows and behavioral analytics models
-- Created dashboards for business insights
-
-**Tech:** Python, SQL, Tableau, Scikit-learn, Streamlit
-
----
-
 ### 🤖 BotDex AI Companion Dashboard
 - Developed a multi-bot AI conversation platform
 - Integrated Google's Gemini API
@@ -86,11 +77,9 @@ Computer Science Student | Data & Analytics Enthusiast | Problem Solver
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanth-9320&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-9320&layout=compact&theme=tokyonight)
+[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemanth-9320&theme=github-dark)](https://github.com/hemanth-9320)
 
 ---
 
